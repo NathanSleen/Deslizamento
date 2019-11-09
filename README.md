@@ -1,2 +1,2 @@
-# Deslizamento
-Nathan é legal o luiz e a Letícia NÃO. HAH
+#  Aplicativo para prevenção de deslizamento de terra
+Foco na meta
